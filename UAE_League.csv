@@ -1,0 +1,100 @@
+home_team,away_team,home_score,away_score,tournament,city,country,neutral
+Wasl,Wahda,2,1,UAE League Cup,Dubai,United Arab Emirates,FALSE
+Wasl,Nasr,1,0,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Wasl,Emirates,7,1,UAE President's Cup,Dubai,United Arab Emirates,FALSE
+Emirates,Wasl,0,2,UAE Pro League,Ras al-Khaimah,United Arab Emirates,FALSE
+Wasl,Sharjah,2,0,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Wahda,Wasl,4,0,UAE League Cup,Abu Dhabi,United Arab Emirates,FALSE
+Baniyas,Wasl,0,2,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Wasl,Khor Fakkan,3,0,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Jazira,Wasl,0,3,UAE President's Cup,Ain,United Arab Emirates,TRUE
+Ajman,Wasl,1,4,UAE Pro League,Ajman,United Arab Emirates,FALSE
+Wasl,Hatta,3,0,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Wasl,Jazira,2,2,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Wasl,Kalba,4,1,UAE President's Cup,Sharjah,United Arab Emirates,TRUE
+Bataeh,Wasl,1,4,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Wasl,Wahda,1,4,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Wasl,Nasr,4,0,UAE President's Cup,Ain,United Arab Emirates,TRUE
+Ahli,Baniyas,2,1,UAE President's Cup,Dubai,United Arab Emirates,FALSE
+Ahli,Ajman,3,0,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Khor Fakkan,Ahli,0,3,UAE Pro League,Khor Fakkan,United Arab Emirates,FALSE
+Ahli,Bataeh,2,1,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Wahda,Ahli,3,3,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Sharjah,Ahli,3,4,UAE President's Cup,Dubai,United Arab Emirates,TRUE
+Ahli,Jazira,3,2,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Nasr,Ahli,3,2,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Ahli,Kalba,4,1,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Ain,Ahli,1,2,UAE Pro League,Ain,United Arab Emirates,FALSE
+Nasr,Ahli,4,3,UAE President's Cup,Dubai,United Arab Emirates,TRUE
+Ahli,Sharjah,3,1,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Emirates,Ahli,2,3,UAE Pro League,Ras al-Khaimah,United Arab Emirates,FALSE
+Wahda,Sharjah,1,1,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Ain,Wahda,1,0,UAE President's Cup,Ain,United Arab Emirates,FALSE
+Bataeh,Wahda,1,2,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Wahda,Jazira,2,1,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Hatta,Wahda,0,4,UAE Pro League,Hatta,United Arab Emirates,FALSE
+Wahda,Baniyas,3,1,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Kalba,Wahda,1,0,UAE Pro League,Kalba,United Arab Emirates,FALSE
+Wahda,Ajman,1,2,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Emirates,Wahda,0,0,UAE Pro League,Ras al-Khaimah,United Arab Emirates,FALSE
+Wahda,Ain,1,0,UAE League Cup,Abu Dhabi,United Arab Emirates,TRUE
+Wahda,Nasr,1,0,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Kalba,Ain,0,2,UAE League Cup,Kalba,United Arab Emirates,FALSE
+Nasaf,Ain,0,0,AFC Champions League,Qarshi,Uzbekistan,FALSE
+Ain,Nasaf,2,1,AFC Champions League,Ain,United Arab Emirates,FALSE
+Baniyas,Ain,0,1,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Ain,Hatta,5,3,UAE Pro League,Ain,United Arab Emirates,FALSE
+Ain,Nassr,1,0,AFC Champions League,Ain,United Arab Emirates,FALSE
+Ain,Kalba,0,2,UAE League Cup,Ain,United Arab Emirates,FALSE
+Nassr,Ain,4,3,AFC Champions League,Riyadh,Saudi Arabia,FALSE
+Ajman,Ain,0,4,UAE Pro League,Ajman,United Arab Emirates,FALSE
+Ain,Sharjah,1,1,UAE Pro League,Ain,United Arab Emirates,FALSE
+Kalba,Ain,3,1,UAE President's Cup,Dubai,United Arab Emirates,TRUE
+Ain,Nasr,1,3,UAE Pro League,Ain,United Arab Emirates,FALSE
+Ain,Jazira,2,2,UAE Pro League,Ain,United Arab Emirates,FALSE
+Ain,Hilal,4,2,AFC Champions League,Ain,United Arab Emirates,FALSE
+Hilal,Ain,2,1,AFC Champions League,Riyadh,Saudi Arabia,FALSE
+Khor Fakkan,Ain,0,1,UAE Pro League,Khor Fakkan,United Arab Emirates,FALSE
+Yokohama,Ain,2,1,AFC Champions League,Yokohama,Japan,FALSE
+Ain,Kalba,0,1,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Nasr,Khor Fakkan,1,0,UAE President's Cup,Dubai,United Arab Emirates,FALSE
+Jazira,Nasr,2,3,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Nasr,Baniyas,1,0,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Sharjah,Nasr,2,2,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Nasr,Hatta,1,0,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Ajman,Nasr,1,2,UAE President's Cup,Sharjah,United Arab Emirates,TRUE
+Bataeh,Nasr,1,3,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Nasr,Kalba,2,2,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Nasr,Khor Fakkan,2,1,UAE Pro League,Dubai,United Arab Emirates,FALSE
+Sharjah,Bataeh,2,1,UAE President's Cup,Sharjah,United Arab Emirates,FALSE
+Sharjah,Kalba,1,0,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Sharjah,Emirates,3,3,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Sharjah,Jazira,1,1,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Sharjah,Bataeh,2,2,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Baniyas,Sharjah,2,3,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Sharjah,Hatta,0,0,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Hatta,Ajman,0,1,UAE President's Cup,Hatta,United Arab Emirates,FALSE
+Ajman,Emirates,2,0,UAE Pro League,Ajman,United Arab Emirates,FALSE
+Kalba,Ajman,2,4,UAE Pro League,Kalba,United Arab Emirates,FALSE
+Ajman,Khor Fakkan,2,2,UAE Pro League,Ajman,United Arab Emirates,FALSE
+Hatta,Ajman,0,0,UAE Pro League,Hatta,United Arab Emirates,FALSE
+Ajman,Bataeh,2,0,UAE Pro League,Ajman,United Arab Emirates,FALSE
+Ajman,Jazira,2,0,UAE Pro League,Ajman,United Arab Emirates,FALSE
+Jazira,Arabi,1,0,UAE President's Cup,Abu Dhabi,United Arab Emirates,FALSE
+Jazira,Kalba,2,2,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Bataeh,Jazira,3,2,UAE Pro League,Sharjah,United Arab Emirates,FALSE
+Jazira,Baniyas,1,0,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Jazira,Khor Fakkan,3,3,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Kalba,Bataeh,1,2,UAE Pro League,Kalba,United Arab Emirates,FALSE
+Khor Fakkan,Bataeh,0,3,UAE Pro League,Khor Fakkan,United Arab Emirates,FALSE
+Baniyas,Bataeh,3,3,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Kalba,Khor Fakkan,1,1,UAE Pro League,Kalba,United Arab Emirates,FALSE
+Kalba,Dibba,3,0,UAE President's Cup,Kalba,United Arab Emirates,FALSE
+Hatta,Kalba,1,3,UAE Pro League,Hatta,United Arab Emirates,FALSE
+Kalba,Emirates,1,2,UAE Pro League,Kalba,United Arab Emirates,FALSE
+Emirates,Baniyas,1,2,UAE Pro League,Ras al-Khaimah,United Arab Emirates,FALSE
+Khor Fakkan,Baniyas,2,1,UAE Pro League,Khor Fakkan,United Arab Emirates,FALSE
+Baniyas,Hatta,4,2,UAE Pro League,Abu Dhabi,United Arab Emirates,FALSE
+Hatta,Khor Fakkan,0,2,UAE Pro League,Hatta,United Arab Emirates,FALSE
+Emirates,Khor Fakkan,2,1,UAE Pro League,Ras al-Khaimah,United Arab Emirates,FALSE
+Hatta,Emirates,1,1,UAE Pro League,Hatta,United Arab Emirates,FALSE
